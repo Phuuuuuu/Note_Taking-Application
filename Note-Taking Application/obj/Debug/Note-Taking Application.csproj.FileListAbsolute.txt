@@ -1,0 +1,10 @@
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.exe.config
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.exe
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.pdb
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.AssemblyReference.cache
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note_Taking_Application.notetaker.resources
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note_Taking_Application.Properties.Resources.resources
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.GenerateResource.cache
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.exe
+D:\xampp\htdocs\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.pdb
